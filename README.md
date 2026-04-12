@@ -1,2 +1,2 @@
 # ecommerce
-MiicroService Architechture based ecommerce website.
+MicroService Architechture based ecommerce website.
